@@ -21,5 +21,7 @@
    import pandas
    df=pd.DataFrame({"one":[1,2,3]})
    df.head()
-   ioifgjeodagkjiiykmh][ppoqyiymklnkscsg]hoi5-ujkn42'4nfklkn
-   ojjkgjoit-ikhhk0k05kto313jk1322oke223p[o2ot3trmhflhmfr'
+   #Display image 
+   ![alt car](car.jpg)
+
+ 
