@@ -26,5 +26,3 @@
    
    #Display image 
    ![alt car](car.jpg)
-
- 
