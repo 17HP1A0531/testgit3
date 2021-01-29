@@ -11,4 +11,13 @@
    1.one
    2.two
    
-  #Display date as bold
+  #Display data as bold 
+  this is **bold**
+  #Display Data is italic
+  
+  this is *italic*
+ #ML code
+   import numpy
+   import pandas
+   df=pd.DataFrame({"one":[1,2,3]})
+   df.head()
