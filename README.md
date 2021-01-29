@@ -21,6 +21,9 @@
    import pandas
    df=pd.DataFrame({"one":[1,2,3]})
    df.head()
+   
+   
+   
    #Display image 
    ![alt car](car.jpg)
 
